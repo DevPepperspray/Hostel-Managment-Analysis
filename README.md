@@ -53,7 +53,7 @@ The same file works as both the submitted report and a live web page. To host it
 - Likert responses are encoded as integers so they can be treated statistically.
 - Confidence intervals on the condition means are 95%.
 - The chi-square and t-tests in the cross-analysis section use the same 107-respondent sample; subgroup splits get thin, so I flag when numbers stop being reliable.
-- Free-text keywords are a quick scan, not thematic coding — useful for a first pass, not a final word.
+- Free-text keywords are a quick scan, not thematic coding, useful for a first pass, not a final word.
 
 ## Author
 
